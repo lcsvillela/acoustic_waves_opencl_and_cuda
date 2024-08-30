@@ -1,0 +1,1108 @@
+00:00.0 Host bridge: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DMI2 (rev 01)
+	Subsystem: Super Micro Computer Inc Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DMI2
+	Flags: fast devsel, NUMA node 0
+	Capabilities: <access denied>
+
+00:01.0 PCI bridge: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 1 (rev 01) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 25, NUMA node 0
+	Bus: primary=00, secondary=01, subordinate=01, sec-latency=0
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:03.0 PCI bridge: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 3 (rev 01) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 27, NUMA node 0
+	Bus: primary=00, secondary=02, subordinate=06, sec-latency=0
+	Memory behind bridge: c3000000-c50fffff
+	Prefetchable memory behind bridge: 0000383000000000-0000383c01ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:04.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0
+	Flags: bus master, fast devsel, latency 0, IRQ 165, NUMA node 0
+	Memory at 383ffff2c000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1
+	Flags: bus master, fast devsel, latency 0, IRQ 167, NUMA node 0
+	Memory at 383ffff28000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2
+	Flags: bus master, fast devsel, latency 0, IRQ 165, NUMA node 0
+	Memory at 383ffff24000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3
+	Flags: bus master, fast devsel, latency 0, IRQ 167, NUMA node 0
+	Memory at 383ffff20000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4
+	Flags: bus master, fast devsel, latency 0, IRQ 165, NUMA node 0
+	Memory at 383ffff1c000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5
+	Flags: bus master, fast devsel, latency 0, IRQ 167, NUMA node 0
+	Memory at 383ffff18000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6
+	Flags: bus master, fast devsel, latency 0, IRQ 165, NUMA node 0
+	Memory at 383ffff14000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:04.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7
+	Flags: bus master, fast devsel, latency 0, IRQ 167, NUMA node 0
+	Memory at 383ffff10000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+00:05.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management (rev 01)
+	Flags: fast devsel, NUMA node 0
+	Capabilities: <access denied>
+
+00:05.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug (rev 01)
+	Flags: fast devsel, NUMA node 0
+	Capabilities: <access denied>
+
+00:05.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors (rev 01)
+	Flags: fast devsel, NUMA node 0
+	Capabilities: <access denied>
+
+00:05.4 PIC: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC (rev 01) (prog-if 20 [IO(X)-APIC])
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC
+	Flags: bus master, fast devsel, latency 0, NUMA node 0
+	Memory at c7107000 (32-bit, non-prefetchable) [size=4K]
+	Capabilities: <access denied>
+
+00:11.0 Unassigned class [ff00]: Intel Corporation C610/X99 series chipset SPSR (rev 05)
+	Subsystem: Intel Corporation C610/X99 series chipset SPSR
+	Flags: bus master, fast devsel, latency 0, NUMA node 0
+	Capabilities: <access denied>
+
+00:11.4 SATA controller: Intel Corporation C610/X99 series chipset sSATA Controller [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+	Subsystem: Intel Corporation C610/X99 series chipset sSATA Controller [AHCI mode]
+	Flags: bus master, 66MHz, medium devsel, latency 0, IRQ 33, NUMA node 0
+	I/O ports at 7110 [size=8]
+	I/O ports at 7100 [size=4]
+	I/O ports at 70f0 [size=8]
+	I/O ports at 70e0 [size=4]
+	I/O ports at 7020 [size=32]
+	Memory at c7106000 (32-bit, non-prefetchable) [size=2K]
+	Capabilities: <access denied>
+	Kernel driver in use: ahci
+	Kernel modules: ahci
+
+00:14.0 USB controller: Intel Corporation C610/X99 series chipset USB xHCI Host Controller (rev 05) (prog-if 30 [XHCI])
+	Subsystem: Intel Corporation C610/X99 series chipset USB xHCI Host Controller
+	Flags: bus master, medium devsel, latency 0, IRQ 32, NUMA node 0
+	Memory at 383ffff00000 (64-bit, non-prefetchable) [size=64K]
+	Capabilities: <access denied>
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+
+00:16.0 Communication controller: Intel Corporation C610/X99 series chipset MEI Controller #1 (rev 05)
+	Subsystem: Intel Corporation C610/X99 series chipset MEI Controller
+	Flags: bus master, fast devsel, latency 0, IRQ 11, NUMA node 0
+	Memory at c7105000 (64-bit, non-prefetchable) [size=16]
+	Capabilities: <access denied>
+	Kernel modules: mei_me
+
+00:16.1 Communication controller: Intel Corporation C610/X99 series chipset MEI Controller #2 (rev 05)
+	Subsystem: Intel Corporation C610/X99 series chipset MEI Controller
+	Flags: bus master, fast devsel, latency 0, IRQ 10, NUMA node 0
+	Memory at c7104000 (64-bit, non-prefetchable) [size=16]
+	Capabilities: <access denied>
+
+00:1c.0 PCI bridge: Intel Corporation C610/X99 series chipset PCI Express Root Port #1 (rev d5) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 28, NUMA node 0
+	Bus: primary=00, secondary=07, subordinate=07, sec-latency=0
+	Memory behind bridge: 90000000-903fffff
+	Prefetchable memory behind bridge: 00000000c7a00000-00000000c7efffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1c.4 PCI bridge: Intel Corporation C610/X99 series chipset PCI Express Root Port #5 (rev d5) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 29, NUMA node 0
+	Bus: primary=00, secondary=08, subordinate=09, sec-latency=0
+	I/O behind bridge: 00006000-00006fff
+	Memory behind bridge: c6000000-c70fffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+00:1f.0 ISA bridge: Intel Corporation C610/X99 series chipset LPC Controller (rev 05)
+	Subsystem: Intel Corporation C610/X99 series chipset LPC Controller
+	Flags: bus master, medium devsel, latency 0, NUMA node 0
+	Capabilities: <access denied>
+	Kernel driver in use: lpc_ich
+	Kernel modules: lpc_ich
+
+00:1f.2 SATA controller: Intel Corporation C610/X99 series chipset 6-Port SATA Controller [AHCI mode] (rev 05) (prog-if 01 [AHCI 1.0])
+	Subsystem: Intel Corporation C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+	Flags: bus master, 66MHz, medium devsel, latency 0, IRQ 34, NUMA node 0
+	I/O ports at 7070 [size=8]
+	I/O ports at 7060 [size=4]
+	I/O ports at 7050 [size=8]
+	I/O ports at 7040 [size=4]
+	I/O ports at 7000 [size=32]
+	Memory at c7100000 (32-bit, non-prefetchable) [size=2K]
+	Capabilities: <access denied>
+	Kernel driver in use: ahci
+	Kernel modules: ahci
+
+00:1f.3 SMBus: Intel Corporation C610/X99 series chipset SMBus Controller (rev 05)
+	Subsystem: Intel Corporation C610/X99 series chipset SMBus Controller
+	Flags: medium devsel, IRQ 18, NUMA node 0
+	Memory at 383ffff31000 (64-bit, non-prefetchable) [size=256]
+	I/O ports at 0580 [size=32]
+	Kernel driver in use: i801_smbus
+	Kernel modules: i2c_i801
+
+02:00.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Physical Slot: 3
+	Flags: bus master, fast devsel, latency 0, IRQ 26, NUMA node 0
+	Memory at c5000000 (32-bit, non-prefetchable) [size=256K]
+	Bus: primary=02, secondary=03, subordinate=06, sec-latency=0
+	Memory behind bridge: c3000000-c4ffffff
+	Prefetchable memory behind bridge: 0000383000000000-0000383c01ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+03:04.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 26, NUMA node 0
+	Bus: primary=03, secondary=04, subordinate=04, sec-latency=0
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+03:08.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 26, NUMA node 0
+	Bus: primary=03, secondary=05, subordinate=05, sec-latency=0
+	Memory behind bridge: c4000000-c4ffffff
+	Prefetchable memory behind bridge: 0000383800000000-0000383c01ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+03:0c.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 26, NUMA node 0
+	Bus: primary=03, secondary=06, subordinate=06, sec-latency=0
+	Memory behind bridge: c3000000-c3ffffff
+	Prefetchable memory behind bridge: 0000383000000000-0000383401ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+05:00.0 3D controller: NVIDIA Corporation GP100GL (rev a1)
+	Subsystem: NVIDIA Corporation GP100GL [Tesla P100 SXM2 16GB]
+	Flags: bus master, fast devsel, latency 0, IRQ 185, NUMA node 0
+	Memory at c4000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at 383800000000 (64-bit, prefetchable) [size=16G]
+	Memory at 383c00000000 (64-bit, prefetchable) [size=32M]
+	Capabilities: <access denied>
+	Kernel driver in use: nvidia
+	Kernel modules: nouveau, nvidia_drm, nvidia
+
+06:00.0 3D controller: NVIDIA Corporation GP100GL (rev a1)
+	Subsystem: NVIDIA Corporation GP100GL [Tesla P100 SXM2 16GB]
+	Flags: bus master, fast devsel, latency 0, IRQ 186, NUMA node 0
+	Memory at c3000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at 383000000000 (64-bit, prefetchable) [size=16G]
+	Memory at 383400000000 (64-bit, prefetchable) [size=32M]
+	Capabilities: <access denied>
+	Kernel driver in use: nvidia
+	Kernel modules: nouveau, nvidia_drm, nvidia
+
+07:00.0 Ethernet controller: Intel Corporation Ethernet Controller 10-Gigabit X540-AT2 (rev 01)
+	Subsystem: Super Micro Computer Inc Ethernet Controller 10-Gigabit X540-AT2
+	Flags: bus master, fast devsel, latency 0, IRQ 16, NUMA node 0
+	Memory at c7c00000 (64-bit, prefetchable) [size=2M]
+	Memory at c7e04000 (64-bit, prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ixgbe
+	Kernel modules: ixgbe
+
+07:00.1 Ethernet controller: Intel Corporation Ethernet Controller 10-Gigabit X540-AT2 (rev 01)
+	Subsystem: Super Micro Computer Inc Ethernet Controller 10-Gigabit X540-AT2
+	Flags: bus master, fast devsel, latency 0, IRQ 17, NUMA node 0
+	Memory at c7a00000 (64-bit, prefetchable) [size=2M]
+	Memory at c7e00000 (64-bit, prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ixgbe
+	Kernel modules: ixgbe
+
+08:00.0 PCI bridge: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge (rev 03) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, NUMA node 0
+	Bus: primary=08, secondary=09, subordinate=09, sec-latency=32
+	I/O behind bridge: 00006000-00006fff
+	Memory behind bridge: c6000000-c70fffff
+	Capabilities: <access denied>
+
+09:00.0 VGA compatible controller: ASPEED Technology, Inc. ASPEED Graphics Family (rev 30) (prog-if 00 [VGA controller])
+	Subsystem: Super Micro Computer Inc ASPEED Graphics Family
+	Flags: medium devsel, IRQ 16, NUMA node 0
+	Memory at c6000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at c7000000 (32-bit, non-prefetchable) [size=128K]
+	I/O ports at 6000 [size=128]
+	[virtual] Expansion ROM at 000c0000 [disabled] [size=128K]
+	Capabilities: <access denied>
+	Kernel driver in use: ast
+	Kernel modules: ast
+
+7f:08.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+	Flags: fast devsel
+
+7f:08.2 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:08.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:09.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+	Flags: fast devsel
+
+7f:09.2 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:09.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:0b.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+	Flags: fast devsel
+
+7f:0b.1 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:0b.2 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:0b.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug (rev 01)
+	Flags: fast devsel
+
+7f:0c.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0c.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0d.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0e.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0e.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0e.2 Unassigned class [ffff]: Intel Corporation Device 6ff2 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff2
+	Flags: fast devsel
+
+7f:0e.3 Unassigned class [ffff]: Intel Corporation Device 6ff3 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff3
+	Flags: fast devsel
+
+7f:0e.4 Unassigned class [ffff]: Intel Corporation Device 6ff4 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff4
+	Flags: fast devsel
+
+7f:0e.5 Unassigned class [ffff]: Intel Corporation Device 6ff5 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff5
+	Flags: fast devsel
+
+7f:0f.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0f.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0f.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0f.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0f.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0f.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:0f.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+7f:10.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+	Flags: fast devsel
+
+7f:10.1 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:10.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+	Flags: fast devsel
+
+7f:10.6 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+	Flags: fast devsel
+
+7f:10.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+	Flags: fast devsel
+
+7f:12.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+	Flags: fast devsel
+
+7f:12.1 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:12.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+	Flags: fast devsel
+
+7f:12.5 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+7f:13.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:13.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:13.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:13.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:13.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast (rev 01)
+	Flags: fast devsel
+
+7f:13.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast (rev 01)
+	Flags: fast devsel
+
+7f:14.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+7f:14.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+7f:14.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:14.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:14.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+7f:14.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+7f:14.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+7f:14.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+7f:16.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:16.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:16.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:16.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:16.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Broadcast (rev 01)
+	Flags: fast devsel
+
+7f:16.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast (rev 01)
+	Flags: fast devsel
+
+7f:17.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+7f:17.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+7f:17.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:17.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+7f:17.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+7f:17.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+7f:17.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+7f:17.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+7f:1e.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+7f:1e.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+7f:1e.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+7f:1e.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+	Memory at <ignored> (type 3, non-prefetchable) [disabled]
+
+7f:1e.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+7f:1f.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Flags: fast devsel
+
+7f:1f.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Flags: fast devsel
+
+80:02.0 PCI bridge: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D PCI Express Root Port 2 (rev 01) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 31, NUMA node 1
+	Bus: primary=80, secondary=81, subordinate=85, sec-latency=0
+	Memory behind bridge: f9000000-fb0fffff
+	Prefetchable memory behind bridge: 0000387000000000-0000387c01ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+80:04.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 0
+	Flags: bus master, fast devsel, latency 0, IRQ 175, NUMA node 1
+	Memory at 387ffff1c000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 1
+	Flags: bus master, fast devsel, latency 0, IRQ 177, NUMA node 1
+	Memory at 387ffff18000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 2
+	Flags: bus master, fast devsel, latency 0, IRQ 175, NUMA node 1
+	Memory at 387ffff14000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 3
+	Flags: bus master, fast devsel, latency 0, IRQ 177, NUMA node 1
+	Memory at 387ffff10000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 4
+	Flags: bus master, fast devsel, latency 0, IRQ 175, NUMA node 1
+	Memory at 387ffff0c000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 5
+	Flags: bus master, fast devsel, latency 0, IRQ 177, NUMA node 1
+	Memory at 387ffff08000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 6
+	Flags: bus master, fast devsel, latency 0, IRQ 175, NUMA node 1
+	Memory at 387ffff04000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:04.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Crystal Beach DMA Channel 7
+	Flags: bus master, fast devsel, latency 0, IRQ 177, NUMA node 1
+	Memory at 387ffff00000 (64-bit, non-prefetchable) [size=16K]
+	Capabilities: <access denied>
+	Kernel driver in use: ioatdma
+	Kernel modules: ioatdma
+
+80:05.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Map/VTd_Misc/System Management (rev 01)
+	Flags: fast devsel, NUMA node 1
+	Capabilities: <access denied>
+
+80:05.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO Hot Plug (rev 01)
+	Flags: fast devsel, NUMA node 1
+	Capabilities: <access denied>
+
+80:05.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D IIO RAS/Control Status/Global Errors (rev 01)
+	Flags: fast devsel, NUMA node 1
+	Capabilities: <access denied>
+
+80:05.4 PIC: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC (rev 01) (prog-if 20 [IO(X)-APIC])
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D I/O APIC
+	Flags: bus master, fast devsel, latency 0, NUMA node 1
+	Memory at fb100000 (32-bit, non-prefetchable) [size=4K]
+	Capabilities: <access denied>
+
+81:00.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Physical Slot: 2
+	Flags: bus master, fast devsel, latency 0, IRQ 30, NUMA node 1
+	Memory at fb000000 (32-bit, non-prefetchable) [size=256K]
+	Bus: primary=81, secondary=82, subordinate=85, sec-latency=0
+	Memory behind bridge: f9000000-faffffff
+	Prefetchable memory behind bridge: 0000387000000000-0000387c01ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+82:04.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 30, NUMA node 1
+	Bus: primary=82, secondary=83, subordinate=83, sec-latency=0
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+82:08.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 30, NUMA node 1
+	Bus: primary=82, secondary=84, subordinate=84, sec-latency=0
+	Memory behind bridge: fa000000-faffffff
+	Prefetchable memory behind bridge: 0000387800000000-0000387c01ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+82:0c.0 PCI bridge: PLX Technology, Inc. Device 8764 (rev ab) (prog-if 00 [Normal decode])
+	Flags: bus master, fast devsel, latency 0, IRQ 30, NUMA node 1
+	Bus: primary=82, secondary=85, subordinate=85, sec-latency=0
+	Memory behind bridge: f9000000-f9ffffff
+	Prefetchable memory behind bridge: 0000387000000000-0000387401ffffff
+	Capabilities: <access denied>
+	Kernel driver in use: pcieport
+
+84:00.0 3D controller: NVIDIA Corporation GP100GL (rev a1)
+	Subsystem: NVIDIA Corporation GP100GL [Tesla P100 SXM2 16GB]
+	Flags: bus master, fast devsel, latency 0, IRQ 187, NUMA node 1
+	Memory at fa000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at 387800000000 (64-bit, prefetchable) [size=16G]
+	Memory at 387c00000000 (64-bit, prefetchable) [size=32M]
+	Capabilities: <access denied>
+	Kernel driver in use: nvidia
+	Kernel modules: nouveau, nvidia_drm, nvidia
+
+85:00.0 3D controller: NVIDIA Corporation GP100GL (rev a1)
+	Subsystem: NVIDIA Corporation GP100GL [Tesla P100 SXM2 16GB]
+	Flags: bus master, fast devsel, latency 0, IRQ 188, NUMA node 1
+	Memory at f9000000 (32-bit, non-prefetchable) [size=16M]
+	Memory at 387000000000 (64-bit, prefetchable) [size=16G]
+	Memory at 387400000000 (64-bit, prefetchable) [size=32M]
+	Capabilities: <access denied>
+	Kernel driver in use: nvidia
+	Kernel modules: nouveau, nvidia_drm, nvidia
+
+ff:08.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+	Flags: fast devsel
+
+ff:08.2 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:08.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 0
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:09.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+	Flags: fast devsel
+
+ff:09.2 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:09.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D QPI Link 1
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:0b.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+	Flags: fast devsel
+
+ff:0b.1 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:0b.2 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link 0/1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:0b.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R3 QPI Link Debug (rev 01)
+	Flags: fast devsel
+
+ff:0c.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0c.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0d.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0e.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0e.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0e.2 Unassigned class [ffff]: Intel Corporation Device 6ff2 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff2
+	Flags: fast devsel
+
+ff:0e.3 Unassigned class [ffff]: Intel Corporation Device 6ff3 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff3
+	Flags: fast devsel
+
+ff:0e.4 Unassigned class [ffff]: Intel Corporation Device 6ff4 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff4
+	Flags: fast devsel
+
+ff:0e.5 Unassigned class [ffff]: Intel Corporation Device 6ff5 (rev 01) (prog-if ff)
+	Subsystem: Intel Corporation Device 6ff5
+	Flags: fast devsel
+
+ff:0f.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0f.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0f.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0f.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0f.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0f.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:0f.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+	Flags: fast devsel
+
+ff:10.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+	Flags: fast devsel
+
+ff:10.1 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D R2PCIe Agent
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:10.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+	Flags: fast devsel
+
+ff:10.6 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+	Flags: fast devsel
+
+ff:10.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Ubox
+	Flags: fast devsel
+
+ff:12.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+	Flags: fast devsel
+
+ff:12.1 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 0
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:12.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+	Flags: fast devsel
+
+ff:12.5 Performance counters: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1 (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Home Agent 1
+	Flags: fast devsel
+	Kernel driver in use: bdx_uncore
+
+ff:13.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:13.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:13.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:13.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:13.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Broadcast (rev 01)
+	Flags: fast devsel
+
+ff:13.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast (rev 01)
+	Flags: fast devsel
+
+ff:14.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+ff:14.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+ff:14.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:14.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:14.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+ff:14.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+ff:14.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+ff:14.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface (rev 01)
+	Flags: fast devsel
+
+ff:16.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:16.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Target Address/Thermal/RAS
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:16.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:16.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Channel Target Address Decoder
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:16.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Broadcast (rev 01)
+	Flags: fast devsel
+
+ff:16.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Global Broadcast (rev 01)
+	Flags: fast devsel
+
+ff:17.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+ff:17.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+	Flags: fast devsel
+	Capabilities: <access denied>
+	Kernel driver in use: bdx_uncore
+
+ff:17.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:17.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+	Flags: fast devsel
+	Capabilities: <access denied>
+
+ff:17.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+ff:17.5 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+ff:17.6 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+ff:17.7 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface (rev 01)
+	Flags: fast devsel
+
+ff:1e.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+ff:1e.1 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+ff:1e.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+ff:1e.3 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+	Memory at <ignored> (type 3, non-prefetchable) [disabled]
+
+ff:1e.4 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Subsystem: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+	Flags: fast devsel
+
+ff:1f.0 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Flags: fast devsel
+
+ff:1f.2 System peripheral: Intel Corporation Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit (rev 01)
+	Flags: fast devsel
+

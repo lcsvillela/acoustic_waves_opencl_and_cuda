@@ -1,0 +1,8 @@
+inicio: : 2024-08-28 22:07:38.747354 UTC
+fim :: 2024-08-28 22:07:41.680622 UTC
+define_initial_condition: 0.002240 ms
+define_c: 0.002368 ms
+initialize_u1: 0.002944 ms
+initialize_u2: 0.002304 ms
+initialize_u3: 0.002624 ms
+calculate_wave: 0.002344 ms

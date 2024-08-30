@@ -1,0 +1,9 @@
+0inicio : 2024-08-29 00:36:32.085316 UTC
+initialize_u1: 284256.000000
+initialize_u2: 279200.000000
+initialize_u3: 278016.000000
+define_c: 279744.000000
+define_initial_condition: 278336.000000
+inicio for: : 2024-08-29 00:36:32.087463 UTC
+final : 2024-08-29 00:37:42.932031 UTC
+calculate_wave: 275684.660533
